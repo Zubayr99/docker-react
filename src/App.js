@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Mrizo qotil
+          Mrizo chatog from feature branch
         </p>
         <a
           className="App-link"
